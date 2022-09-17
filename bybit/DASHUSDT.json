@@ -1,4 +1,4 @@
-{"config_name": "static_grid_DASHUSDT_132days",
+{"config_name": "static_grid_DASHUSDT_132day",
  "logging_level": 0,
  "long": {"auto_unstuck_ema_dist": 0.09416995117175593,
           "auto_unstuck_wallet_exposure_threshold": 0.767884505731625,
