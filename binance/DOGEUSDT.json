@@ -1,4 +1,4 @@
-{"config_name": "static_grid_DOGEUSDT_132days",
+{"config_name": "static_grid_DOGEUSDT_132day",
  "logging_level": 0,
  "long": {"auto_unstuck_ema_dist": 0.08057749745854041,
           "auto_unstuck_wallet_exposure_threshold": 0.2805052705614389,
