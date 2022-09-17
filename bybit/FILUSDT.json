@@ -1,4 +1,4 @@
-{"config_name": "static_grid_FILUSDT_136da",
+{"config_name": "static_grid_FILUSDT_136days",
  "logging_level": 0,
  "long": {"auto_unstuck_ema_dist": 0.06430257154456072,
           "auto_unstuck_wallet_exposure_threshold": 0.18167541996492886,
