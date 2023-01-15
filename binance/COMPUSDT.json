@@ -1,4 +1,4 @@
-{"config_name": "static_grid_COMPUSDT_219days",
+{"config_name": "tatic_grid_COMPUSDT_219days",
  "logging_level": 0,
  "long": {"auto_unstuck_ema_dist": 0.038467718108028584,
           "auto_unstuck_wallet_exposure_threshold": 0.07985168518577093,
